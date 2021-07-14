@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=R3back" alt="R3back" /> </p>
 
-🔭 I’m currently working as FreeLancer
+🔭 I’m currently working as FreeLancer & Learning VM Frameworks.
 
 💧  I Have experience coding in Kotlin, Java, MYSQL and C#.
 
