@@ -8,8 +8,6 @@
 
 💧  I Have experience coding in Kotlin, Java, MYSQL and C#.
 
-✎  Software Engineering Student at the Universidad Austral of Buenos Aires.
-
 
 📫 How to reach me:
 * Rehab#8877
