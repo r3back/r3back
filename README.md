@@ -6,6 +6,8 @@
 
 🔭 I’m currently working as FreeLancer & Learning JVM Frameworks.
 
+📚 I'm studying software engineering at the Austral University of Buenos Aires, Argentina.
+
 💧  I Have experience coding in Kotlin, Java, MYSQL and C#.
 
 
